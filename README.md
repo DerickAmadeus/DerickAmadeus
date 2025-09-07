@@ -2,8 +2,6 @@
 
 ###
 
-<br clear="both">
-
 <h2 align="center">Information System and Technology Undergraduate  | Your Future Data Scientist 👩‍💻</h2>
 
 ###
@@ -47,6 +45,14 @@
 
 ###
 
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/DerickAmadeus/DerickAmadeus/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/DerickAmadeus/DerickAmadeus/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/DerickAmadeus/DerickAmadeus/output/pacman-contribution-graph.svg">
+</picture>
+
+###
+
 <h2 align="center">Contact Me On :</h2>
 
 ###
@@ -58,16 +64,9 @@
   <a href="https://www.linkedin.com/in/derick-budiono-4a9284291/" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
   </a>
-  <a href="derickamadeus708@gmail.com" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="gmail logo"  />
-  </a>
-  <a href="https://discord.com/rein0819/" target="_blank">
+  <a href="https://discord.com/users/675665196383076358" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="52" height="40" alt="discord logo"  />
   </a>
 </div>
-
-###
-
-<img src="https://raw.githubusercontent.com/DerickAmadeus/DerickAmadeus/output/snake.svg" alt="Snake animation" />
 
 ###
