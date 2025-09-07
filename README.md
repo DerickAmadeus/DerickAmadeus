@@ -2,7 +2,7 @@
 
 ###
 
-<h2 align="center">Information System and Technology Undergraduate  | Your Future Data Scientist 👩‍💻</h2>
+<h2 align="center">Undergraduate Information System and Technology Students  | Your Future Data Scientist 👩‍💻</h2>
 
 ###
 
