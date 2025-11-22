@@ -1,7 +1,9 @@
-<h1 align="left">Hello World, I'm Derick Amadeus Budiono👋</h1>
+<h1 align="Center">사고 칠 준비 된 사람?</h1>
+
+<img src="https://github.com/user-attachments/assets/f8a747c8-6980-47cd-ad72-4c2a65d7d060" width="100%" />
 
 ###
-
+<h1 align="center">Hi, Derick's here👋</h1>
 <h2 align="center">Undergraduate Information System and Technology Students  | Your Future Data Scientist 👩‍💻</h2>
 
 ###
